@@ -1,0 +1,11 @@
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\bin\Debug\BatchFileUtility.exe.config
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\bin\Debug\BatchFileUtility.exe
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\bin\Debug\BatchFileUtility.pdb
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.csproj.AssemblyReference.cache
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.Properties.Resources.resources
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.csproj.GenerateResource.cache
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.csproj.CoreCompileInputs.cache
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.exe
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.pdb
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.Form1.resources
+C:\Source\Repos\BatchFileUtility\BatchFileUtility\obj\Debug\BatchFileUtility.csproj.SuggestedBindingRedirects.cache
